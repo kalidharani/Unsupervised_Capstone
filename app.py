@@ -107,4 +107,4 @@ if st.button("🔍 Analyze Customer Segment"):
 # Footer
 # -------------------------------
 st.divider()
-st.caption("Developed by Kali Dharani | Final Year Capstone Project")
+st.caption("Developed by Kali Dharani")
